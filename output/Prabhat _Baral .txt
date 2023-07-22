@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Prabhat\u00a0",
+            "lastName": "Baral\u00a0",
+            "score": 0.21184901304717602,
+            "ethnicityAlt": "Nepalese",
+            "ethnicity": "Surinamese",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Surinamese",
+                "Nepalese",
+                "Comoros",
+                "TrinidadTobago",
+                "Burundese",
+                "Indian",
+                "Lithuanian",
+                "Fiji",
+                "HispanoLatino",
+                "Centrafrican"
+            ],
+            "probabilityCalibrated": 0.1545468905177968,
+            "probabilityAltCalibrated": 0.27818585695689796
+        }
+    ]
+}

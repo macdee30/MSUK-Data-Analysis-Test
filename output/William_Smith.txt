@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "William",
+            "lastName": "Smith",
+            "score": 2.368777361709861,
+            "ethnicityAlt": "HispanoLatino",
+            "ethnicity": "British",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "British",
+                "HispanoLatino",
+                "AfricanAmerican",
+                "Irish",
+                "NativeHawaiian",
+                "English",
+                "Jewish",
+                "TrinidadTobago",
+                "Scottish",
+                "Dutch"
+            ],
+            "probabilityCalibrated": 0.27211164129615506,
+            "probabilityAltCalibrated": 0.46027472144558124
+        }
+    ]
+}

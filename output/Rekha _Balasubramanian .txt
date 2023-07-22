@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Rekha\u00a0",
+            "lastName": "Balasubramanian\u00a0",
+            "score": 1.6274325071399418,
+            "ethnicityAlt": "Indian",
+            "ethnicity": "Surinamese",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Surinamese",
+                "Indian",
+                "Sri Lankan",
+                "Hungarian",
+                "NativeHawaiian",
+                "Kyrgyz",
+                "Lithuanian",
+                "TrinidadTobago",
+                "AfricanAmerican",
+                "Georgian"
+            ],
+            "probabilityCalibrated": 0.24038742116286388,
+            "probabilityAltCalibrated": 0.3926921372710736
+        }
+    ]
+}

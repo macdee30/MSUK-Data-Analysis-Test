@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Jacopo",
+            "lastName": "Greece",
+            "score": 9.579743723841446,
+            "ethnicityAlt": "HispanoLatino",
+            "ethnicity": "British",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "British",
+                "HispanoLatino",
+                "AfricanAmerican",
+                "TrinidadTobago",
+                "NativeHawaiian",
+                "Irish",
+                "Jewish",
+                "Scottish",
+                "Italian",
+                "Welsh"
+            ],
+            "probabilityCalibrated": 0.5365707967383397,
+            "probabilityAltCalibrated": 0.5365707967383397
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Gillian",
+            "lastName": "Madonsela\u00a0",
+            "score": 0.28294627129477595,
+            "ethnicityAlt": "Gabon",
+            "ethnicity": "Zimbabwean",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Zimbabwean",
+                "Gabon",
+                "TrinidadTobago",
+                "Armenian",
+                "HispanoLatino",
+                "AfricanAmerican",
+                "Italian",
+                "French",
+                "Surinamese",
+                "NativeHawaiian"
+            ],
+            "probabilityCalibrated": 0.15921281954766783,
+            "probabilityAltCalibrated": 0.23502941044973782
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Davies",
+            "lastName": "Okeowo",
+            "score": 34.933402446793515,
+            "ethnicityAlt": "Kenyan",
+            "ethnicity": "Nigerian",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Nigerian",
+                "Kenyan",
+                "Ugandan",
+                "Congolese",
+                "Ghanaian",
+                "NativeHawaiian",
+                "Beninese",
+                "Gabon",
+                "AfricanAmerican",
+                "Zambian"
+            ],
+            "probabilityCalibrated": 0.942203468966945,
+            "probabilityAltCalibrated": 0.942203468966945
+        }
+    ]
+}

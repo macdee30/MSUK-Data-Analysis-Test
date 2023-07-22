@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Akiyama\u00a0",
+            "lastName": "Iwao",
+            "score": 32.65257361216487,
+            "ethnicityAlt": "Congolese",
+            "ethnicity": "Japanese",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Japanese",
+                "Congolese",
+                "NativeHawaiian",
+                "Ivoirien",
+                "Gabon",
+                "Comoros",
+                "Togolese",
+                "Kyrgyz",
+                "Nigerian",
+                "Laos"
+            ],
+            "probabilityCalibrated": 0.9295968917106235,
+            "probabilityAltCalibrated": 0.9295968917106235
+        }
+    ]
+}

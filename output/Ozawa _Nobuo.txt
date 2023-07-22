@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Ozawa\u00a0",
+            "lastName": "Nobuo",
+            "score": 29.475781512556143,
+            "ethnicityAlt": "Congolese",
+            "ethnicity": "Japanese",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Japanese",
+                "Congolese",
+                "Bhutanese",
+                "Ivoirien",
+                "Tajik",
+                "Mozambican",
+                "NativeHawaiian",
+                "Belarussian",
+                "Surinamese",
+                "Centrafrican"
+            ],
+            "probabilityCalibrated": 0.9088143279436927,
+            "probabilityAltCalibrated": 0.9088143279436927
+        }
+    ]
+}

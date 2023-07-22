@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Daniel",
+            "lastName": "Evans",
+            "score": 0.8437129660840178,
+            "ethnicityAlt": "AfricanAmerican",
+            "ethnicity": "British",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "British",
+                "AfricanAmerican",
+                "HispanoLatino",
+                "Irish",
+                "Welsh",
+                "Flemish",
+                "NativeHawaiian",
+                "Swedish",
+                "English",
+                "French"
+            ],
+            "probabilityCalibrated": 0.19359503052564384,
+            "probabilityAltCalibrated": 0.26292120873901703
+        }
+    ]
+}

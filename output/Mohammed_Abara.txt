@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Mohammed",
+            "lastName": "Abara",
+            "score": 3.2385852570154805,
+            "ethnicityAlt": "Algerian",
+            "ethnicity": "Moroccan",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Moroccan",
+                "Algerian",
+                "Egyptian",
+                "Syrian",
+                "Tunisian",
+                "Sudanese",
+                "Palestinian",
+                "Iraqi",
+                "Pakistanese",
+                "Lebanese"
+            ],
+            "probabilityCalibrated": 0.320660068518736,
+            "probabilityAltCalibrated": 0.320660068518736
+        }
+    ]
+}

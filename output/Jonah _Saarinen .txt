@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Jonah\u00a0",
+            "lastName": "Saarinen ",
+            "score": 58.39128804791622,
+            "ethnicityAlt": "Danish",
+            "ethnicity": "Finnish",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Finnish",
+                "Danish",
+                "Norwegian",
+                "Estonian",
+                "Dutch",
+                "HispanoLatino",
+                "NativeHawaiian",
+                "Jewish",
+                "Swedish",
+                "Surinamese"
+            ],
+            "probabilityCalibrated": 0.9532123614923249,
+            "probabilityAltCalibrated": 0.9532123614923249
+        }
+    ]
+}

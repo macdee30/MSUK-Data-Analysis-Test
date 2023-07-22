@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Nitika",
+            "lastName": "Sethi\u00a0",
+            "score": 14.948475699463783,
+            "ethnicityAlt": "Thai",
+            "ethnicity": "Indian",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Indian",
+                "Thai",
+                "Surinamese",
+                "Cambodian",
+                "Mauritius",
+                "AfricanAmerican",
+                "Moroccan",
+                "HispanoLatino",
+                "Slovanian",
+                "Algerian"
+            ],
+            "probabilityCalibrated": 0.6867453495706282,
+            "probabilityAltCalibrated": 0.6867453495706282
+        }
+    ]
+}

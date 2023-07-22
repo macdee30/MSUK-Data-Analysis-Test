@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Marina\u00a0",
+            "lastName": "Cruz\u00a0",
+            "score": 0.6375209572145989,
+            "ethnicityAlt": "NativeHawaiian",
+            "ethnicity": "HispanoLatino",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "HispanoLatino",
+                "NativeHawaiian",
+                "AfricanAmerican",
+                "Surinamese",
+                "Palestinian",
+                "Walloon",
+                "Angola",
+                "TrinidadTobago",
+                "Portuguese",
+                "Comoros"
+            ],
+            "probabilityCalibrated": 0.18158487668138076,
+            "probabilityAltCalibrated": 0.24836939773066852
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Katherine\u00a0",
+            "lastName": "Johnson\u00a0",
+            "score": 1.2909278621789173,
+            "ethnicityAlt": "HispanoLatino",
+            "ethnicity": "AfricanAmerican",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "AfricanAmerican",
+                "HispanoLatino",
+                "TrinidadTobago",
+                "NativeHawaiian",
+                "Norwegian",
+                "Swedish",
+                "Icelander",
+                "Scottish",
+                "British",
+                "Surinamese"
+            ],
+            "probabilityCalibrated": 0.2195951485031461,
+            "probabilityAltCalibrated": 0.2789022371779637
+        }
+    ]
+}

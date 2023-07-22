@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Vivek",
+            "lastName": "Jadoo",
+            "score": 16.565762740005958,
+            "ethnicityAlt": "Indian",
+            "ethnicity": "Mauritius",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Mauritius",
+                "Indian",
+                "TrinidadTobago",
+                "Surinamese",
+                "Pakistanese",
+                "HispanoLatino",
+                "Turkmen",
+                "Ghanaian",
+                "Centrafrican",
+                "Tajik"
+            ],
+            "probabilityCalibrated": 0.718519157858309,
+            "probabilityAltCalibrated": 0.8573438562268313
+        }
+    ]
+}

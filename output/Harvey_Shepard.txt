@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Harvey",
+            "lastName": "Shepard",
+            "score": 11.62398592993257,
+            "ethnicityAlt": "AfricanAmerican",
+            "ethnicity": "British",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "British",
+                "AfricanAmerican",
+                "HispanoLatino",
+                "Danish",
+                "English",
+                "Irish",
+                "NativeHawaiian",
+                "French",
+                "Jewish",
+                "TrinidadTobago"
+            ],
+            "probabilityCalibrated": 0.5986497730741801,
+            "probabilityAltCalibrated": 0.5986497730741801
+        }
+    ]
+}

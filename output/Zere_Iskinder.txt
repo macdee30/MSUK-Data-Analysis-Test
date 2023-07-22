@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Zere",
+            "lastName": "Iskinder",
+            "score": 1.7966295319315728,
+            "ethnicityAlt": "Turkish",
+            "ethnicity": "Jewish",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Jewish",
+                "Turkish",
+                "AfricanAmerican",
+                "Swedish",
+                "Ethiopian",
+                "HispanoLatino",
+                "Hungarian",
+                "Austrian",
+                "Palestinian",
+                "German"
+            ],
+            "probabilityCalibrated": 0.2492351716339257,
+            "probabilityAltCalibrated": 0.3741483331452995
+        }
+    ]
+}

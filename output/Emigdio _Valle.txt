@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Emigdio ",
+            "lastName": "Valle",
+            "score": 10.874025646190423,
+            "ethnicityAlt": "French",
+            "ethnicity": "Hispanic",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Hispanic",
+                "French",
+                "Portuguese",
+                "Italian",
+                "Catalan",
+                "HispanoLatino",
+                "NativeHawaiian",
+                "Jewish",
+                "AfricanAmerican",
+                "Flemish"
+            ],
+            "probabilityCalibrated": 0.587948808057886,
+            "probabilityAltCalibrated": 0.587948808057886
+        }
+    ]
+}

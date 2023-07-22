@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Ajeesh",
+            "lastName": "Mohan\u00a0",
+            "score": 6.488667077380804,
+            "ethnicityAlt": "Mauritius",
+            "ethnicity": "Indian",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Indian",
+                "Mauritius",
+                "TrinidadTobago",
+                "Somalia",
+                "Ethiopian",
+                "Afghan",
+                "Bahrani",
+                "Iranian",
+                "Surinamese",
+                "Mauritanian"
+            ],
+            "probabilityCalibrated": 0.4526697329252362,
+            "probabilityAltCalibrated": 0.5139032966733591
+        }
+    ]
+}

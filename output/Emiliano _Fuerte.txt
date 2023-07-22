@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Emiliano ",
+            "lastName": "Fuerte",
+            "score": 23.80843567438356,
+            "ethnicityAlt": "Portuguese",
+            "ethnicity": "Hispanic",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Hispanic",
+                "Portuguese",
+                "Mozambican",
+                "Italian",
+                "HispanoLatino",
+                "Catalan",
+                "Angola",
+                "NativeHawaiian",
+                "French",
+                "Jewish"
+            ],
+            "probabilityCalibrated": 0.8384759611969855,
+            "probabilityAltCalibrated": 0.9262902451368432
+        }
+    ]
+}

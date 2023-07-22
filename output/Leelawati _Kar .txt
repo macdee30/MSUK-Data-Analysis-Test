@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Leelawati\u00a0",
+            "lastName": "Kar\u00a0",
+            "score": 5.076894481881161,
+            "ethnicityAlt": "NativeHawaiian",
+            "ethnicity": "Surinamese",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Surinamese",
+                "NativeHawaiian",
+                "Belarussian",
+                "Estonian",
+                "Burundese",
+                "Eritrea",
+                "Bosniak",
+                "Kyrgyz",
+                "Fiji",
+                "TrinidadTobago"
+            ],
+            "probabilityCalibrated": 0.4009557985454701,
+            "probabilityAltCalibrated": 0.4009557985454701
+        }
+    ]
+}

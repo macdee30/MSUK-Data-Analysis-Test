@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Juliet\u00a0",
+            "lastName": "Grant",
+            "score": 2.3535840612227226,
+            "ethnicityAlt": "British",
+            "ethnicity": "AfricanAmerican",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "AfricanAmerican",
+                "British",
+                "HispanoLatino",
+                "TrinidadTobago",
+                "French",
+                "Swedish",
+                "Irish",
+                "English",
+                "NativeHawaiian",
+                "Scottish"
+            ],
+            "probabilityCalibrated": 0.271628684370927,
+            "probabilityAltCalibrated": 0.2733216321956179
+        }
+    ]
+}

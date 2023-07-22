@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Ulric\u00a0",
+            "lastName": "Parker",
+            "score": 5.20537350943908,
+            "ethnicityAlt": "HispanoLatino",
+            "ethnicity": "AfricanAmerican",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "AfricanAmerican",
+                "HispanoLatino",
+                "Austrian",
+                "British",
+                "NativeHawaiian",
+                "Swedish",
+                "Danish",
+                "Jewish",
+                "Irish",
+                "English"
+            ],
+            "probabilityCalibrated": 0.4050148317719555,
+            "probabilityAltCalibrated": 0.4050148317719555
+        }
+    ]
+}

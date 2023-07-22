@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Vinod",
+            "lastName": "Babu",
+            "score": 33.78432797720204,
+            "ethnicityAlt": "Nepalese",
+            "ethnicity": "Indian",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Indian",
+                "Nepalese",
+                "Mauritius",
+                "Bangladeshi",
+                "Pakistanese",
+                "TrinidadTobago",
+                "Sri Lankan",
+                "Malays",
+                "Surinamese",
+                "Palestinian"
+            ],
+            "probabilityCalibrated": 0.9332220020272093,
+            "probabilityAltCalibrated": 0.9332220020272093
+        }
+    ]
+}

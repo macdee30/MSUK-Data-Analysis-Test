@@ -1,0 +1,29 @@
+{
+    "personalNames": [
+        {
+            "script": "LATIN",
+            "id": "e630dda5-13b3-42c5-8f1d-648aa8a21c42",
+            "firstName": "Azzurra",
+            "lastName": "Marotta",
+            "score": 39.36914347923632,
+            "ethnicityAlt": "Jewish",
+            "ethnicity": "Italian",
+            "lifted": false,
+            "countryIso2": "US",
+            "ethnicitiesTop": [
+                "Italian",
+                "Jewish",
+                "AfricanAmerican",
+                "Palestinian",
+                "French",
+                "HispanoLatino",
+                "NativeHawaiian",
+                "Portuguese",
+                "Tunisian",
+                "Lebanese"
+            ],
+            "probabilityCalibrated": 0.9532123614923249,
+            "probabilityAltCalibrated": 0.9532123614923249
+        }
+    ]
+}
